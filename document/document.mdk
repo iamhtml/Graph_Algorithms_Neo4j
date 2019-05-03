@@ -1,0 +1,32 @@
+Title         : Welcome
+Author        : You
+Logo          : True
+
+[TITLE]
+
+# Madoko 
+
+Madoko is a fast markdown processor for writing professional articles
+with a focus on simplicity and plain text readability.
+
+* Read the [reference manual].
+* Explore the upper-right toolbox menu to discover how Markdown works. 
+* `Alt-Q` reformats the current paragraph.
+
+Enjoy!
+
+[reference manual]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko reference manual"
+
+# 前言
+
+The world is driven by connections—from financial and communication systems to
+social and biological processes. 
+
+Revealing the meaning behind these connections
+drives breakthroughs across industries in areas such as identifying fraud rings and
+optimizing recommendations to evaluating the strength of a group and predicting
+cascading failures.
+
+世界是被“连接”所驱动的——从金融、沟通系统到社会、生物过程。
+揭示其背后那些“连接” 带动行业领域的突破，比如识别诈骗团伙、优化识别来进化群组和预测的强度连级故障。
+
